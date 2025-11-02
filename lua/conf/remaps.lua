@@ -1,6 +1,6 @@
 vim.keymap.set("n", "<leader>x", vim.cmd.Ex)
-vim.keymap.set("n", "<C-T>", vim.cmd.NvimTreeToggle)
-vim.keymap.set("n", "<C-t>", vim.cmd.UndotreeToggle)
+vim.keymap.set("n", "<C-t>", vim.cmd.NvimTreeToggle)
+vim.keymap.set("n", "<C-u>", vim.cmd.UndotreeToggle)
 vim.keymap.set("n", "<leader>git", vim.cmd.Git)
 
 
